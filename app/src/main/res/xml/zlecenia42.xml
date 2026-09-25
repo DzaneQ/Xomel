@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notka>
+	<towar id="119">
+		<imie>Robert</imie>
+		<nazwisko>Lutosławski</nazwisko>
+		<produkt>Jogurt</produkt>
+		<nazwa>Jogobella</nazwa>
+		<ilosc>3</ilosc>
+	</towar>
+	
+	<towar id="120">
+		<imie>Tomek</imie>
+		<nazwisko>Płotkowski</nazwisko>
+		<produkt>Baton</produkt>
+		<nazwa>Twix</nazwa>
+		<ilosc>6</ilosc>
+	</towar>
+	
+	<towar id="121">
+		<imie>Dominik</imie>
+		<nazwisko>Kruk</nazwisko>
+		<produkt>Sushi</produkt>
+		<ilosc>1</ilosc>
+	</towar>
+</notka>

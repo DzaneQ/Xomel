@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notka>
+    <towar id="122">
+        <imie>Mariola</imie>
+        <nazwisko>Morżak</nazwisko>
+        <produkt>Chipsy</produkt>
+        <nazwa>Lays</nazwa>
+        <ilosc>2</ilosc>
+    </towar>
+
+    <towar id="123">
+        <imie>Olek</imie>
+        <nazwisko>Irys</nazwisko>
+        <produkt>Guma</produkt>
+        <nazwa>Orbit</nazwa>
+        <ilosc>8</ilosc>
+    </towar>
+</notka>
